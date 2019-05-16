@@ -1,6 +1,6 @@
 # decentralized Web Thessaloniki Meetup Files
 
-The repo of [https://www.meetup.com/Decentralized-Web-and-Software-Freedom-Meetup/] !
+The repo of https://www.meetup.com/Decentralized-Web-and-Software-Freedom-Meetup/ !
 
 This repo will host all relevant presentations, videos and code samples from the meetup
 
